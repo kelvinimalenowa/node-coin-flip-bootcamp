@@ -4,6 +4,10 @@ Coin Flip is a simple full-stack application that simulates flipping a coin. The
 
 I built this project to practice connecting client-side JavaScript to a server and better understand how the front end and back end communicate with each other.
 
+## Project Link
+
+[Play Flip a Coin](https://flip-a-coin-6pe2.onrender.com/)
+
 ## 📸 Project Preview
 
 ![Coin Flip project preview](assets/mockup.png)
